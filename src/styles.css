@@ -13,7 +13,7 @@ body {
   padding: 0;
   width: 100%;
 }
-
+/* add a smooth scroll effect */
 div#main {
   display: flex;
   flex-direction: column;
@@ -123,3 +123,5 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a slide in left animation */
